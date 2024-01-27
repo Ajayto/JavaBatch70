@@ -1,0 +1,6 @@
+class A{
+void m1(){
+Systemt.out.println("this is m1 method");
+
+}
+}
